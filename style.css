@@ -1,0 +1,14 @@
+body {
+    color: #65d56a;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+}
+h1 {
+    color: brown;
+    text-decoration: underline;
+} 
+
+p, li {
+    color: black;
+}
+
